@@ -33,8 +33,9 @@ https://user-images.githubusercontent.com/143191805/271682903-3ed3250a-544d-4677
 
 https://user-images.githubusercontent.com/143191805/271678542-a8eb959e-b267-4452-b7e1-f44ec760f5aa.png
 
-![1](https://github.com/Maria-Sokolova/Path_of_Wisdom/assets/143191805/d9101ca7-972e-44be-a324-cddc1a9c2767)
+ответ 
 
+https://user-images.githubusercontent.com/143191805/271683526-d9101ca7-972e-44be-a324-cddc1a9c2767.png
 
 Подзадача 2
 
