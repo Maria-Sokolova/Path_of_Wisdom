@@ -24,7 +24,7 @@ smoke-тест-кейсы
 
 баг-репорт
 
-![баг](https://github.com/Maria-Sokolova/Path_of_Wisdom/assets/143191805/3ed3250a-544d-4677-82d9-085254788639)
+![баг](https://github.com/Maria-Sokolova/Path_of_Wisdom/assets/143191805/89109581-bf0e-4dea-a4d0-92537a7f9714)
 
 # Задача 2
 
