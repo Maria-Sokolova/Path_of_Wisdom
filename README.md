@@ -24,13 +24,20 @@ smoke-тест-кейсы
 
 баг-репорт
 
-![баг](https://github.com/Maria-Sokolova/Path_of_Wisdom/assets/143191805/89109581-bf0e-4dea-a4d0-92537a7f9714)
+https://user-images.githubusercontent.com/143191805/271682903-3ed3250a-544d-4677-82d9-085254788639.png
+
 
 # Задача 2
 
 Подзадача 1
+
 https://user-images.githubusercontent.com/143191805/271678542-a8eb959e-b267-4452-b7e1-f44ec760f5aa.png
 
+![1](https://github.com/Maria-Sokolova/Path_of_Wisdom/assets/143191805/d9101ca7-972e-44be-a324-cddc1a9c2767)
+
+
 Подзадача 2
+
 https://user-images.githubusercontent.com/143191805/271678578-cc5ed166-a435-465e-b06c-5fa655234d13.png
 
+![2](https://github.com/Maria-Sokolova/Path_of_Wisdom/assets/143191805/775d8f5f-962f-4359-99b2-3390f34c5554)
