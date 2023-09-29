@@ -30,8 +30,6 @@ smoke-тест-кейсы
 Подзадача 1
 https://user-images.githubusercontent.com/143191805/271678542-a8eb959e-b267-4452-b7e1-f44ec760f5aa.png
 
-![подзадача 1](https://github.com/Maria-Sokolova/Path_of_Wisdom/assets/143191805/a8eb959e-b267-4452-b7e1-f44ec760f5aa)
-
-
 Подзадача 2
-![подзадача 2](https://github.com/Maria-Sokolova/Path_of_Wisdom/assets/143191805/cc5ed166-a435-465e-b06c-5fa655234d13)
+https://user-images.githubusercontent.com/143191805/271678578-cc5ed166-a435-465e-b06c-5fa655234d13.png
+
