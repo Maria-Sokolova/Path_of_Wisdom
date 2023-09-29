@@ -41,4 +41,6 @@ https://user-images.githubusercontent.com/143191805/271683526-d9101ca7-972e-44be
 
 https://user-images.githubusercontent.com/143191805/271678578-cc5ed166-a435-465e-b06c-5fa655234d13.png
 
-![2](https://github.com/Maria-Sokolova/Path_of_Wisdom/assets/143191805/775d8f5f-962f-4359-99b2-3390f34c5554)
+ответ
+
+https://user-images.githubusercontent.com/143191805/271683552-775d8f5f-962f-4359-99b2-3390f34c5554.png
