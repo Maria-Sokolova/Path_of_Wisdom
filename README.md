@@ -22,8 +22,9 @@ smoke-тест-кейсы
 
 [Sitechco.ru2.pdf](https://github.com/Maria-Sokolova/Path_of_Wisdom/files/12769622/Sitechco.ru2.pdf)
 
-баг-репорты 
+баг-репорт
 
+![баг](https://github.com/Maria-Sokolova/Path_of_Wisdom/assets/143191805/3ed3250a-544d-4677-82d9-085254788639)
 
 # Задача 2
 
