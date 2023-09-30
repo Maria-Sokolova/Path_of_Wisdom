@@ -8,7 +8,8 @@ smoke-тест-кейсы
 
 низкоуровневый чек-лист функциональных проверок
 
-[Sitechco.ru.pdf](https://github.com/Maria-Sokolova/Path_of_Wisdom/files/12769377/Sitechco.ru.pdf)
+[Sitechco.ru.pdf](https://github.com/Maria-Sokolova/Path_of_Wisdom/files/12774764/Sitechco.ru.pdf)
+
 
 высокоуровневый чек-лист нефункциональных проверок
 
