@@ -44,5 +44,4 @@ https://user-images.githubusercontent.com/143191805/271678578-cc5ed166-a435-465e
 
 ответ
 
-![зад2](https://github.com/Maria-Sokolova/Path_of_Wisdom/assets/143191805/bbdaa9da-5c49-4bbc-98bc-3f10ac78b0ea)
-
+https://user-images.githubusercontent.com/143191805/271775644-bbdaa9da-5c49-4bbc-98bc-3f10ac78b0ea.png
